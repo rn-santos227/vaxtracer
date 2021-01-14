@@ -1,0 +1,53 @@
+Clinic registration
+1.	Go to website
+2.	Choose Clinic Registration
+3.	Fill up form
+a.	Name
+b.	Address
+c.	Scanned copy of Business Registration
+d.	Scanned copy of other docs
+4.	Submit
+5.	Verification by DOH (process lang ito, wala pa sa screens)
+6.	Verification Email
+
+Clinic Operation
+1.	Go to website
+2.	Choose Login
+3.	Patients
+4.	New Patient (may duplicate verification)
+a.	Name
+b.	SSS? TIN?
+c.	Address
+d.	Contact
+e.	Date of administration
+f.	Vaccine serial number
+g.	Etc
+5.	Save – QR Code will be generated
+6.	Print/Send to email
+
+Business Registration
+1.	Go to website
+2.	Choose merchant registration
+3.	Fill up form
+a.	Name
+b.	Address
+c.	Business form
+d.	Upload business permit etc
+4.	Submit
+5.	System will provide link to download app? System will provide Merchant ID
+
+
+Business Operation
+1.	Download and install app 
+2.	App should already be configured based on download link? Merchant enters Merchant ID and all details will be retrieved from cloud and configured to system?
+3.	Install and configure app (multiple installs are allowed as establishments can have multiple entrances)
+4.	Open app
+5.	Scan customer’s QR Code
+6.	Save customer info, time and date
+
+Contact tracing screen/module?
+1.	Input : Patient info, search by name or mobile number
+2.	Output : Patient and Scan History (esablishments that the patient went to)
+
+1.	Input : Merchant info
+2.	Output : All patients scanned by establishment filtered by date/branch
